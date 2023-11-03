@@ -1,0 +1,13 @@
+body {
+    margin: none;
+    background-color: rgb(185, 41, 185);
+}
+
+
+#Texte1 , #Texte2 , #Texte3 {
+    background-color: lightgray;
+    border: solid 1px green;
+    margin: 20px;
+}
+
+

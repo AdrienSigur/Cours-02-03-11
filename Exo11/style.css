@@ -1,0 +1,19 @@
+
+#Texte1 , #Texte2 , #Texte3 {
+    border: solid 1px green;
+    background-color: lightgray;
+   margin: 10px;
+ }  
+
+
+ #Texte1 {
+    margin: 20px;
+ }
+
+#Texte2 {
+    margin: 1.2em ;
+}
+
+#Texte3 {
+    margin: -30px;
+}
