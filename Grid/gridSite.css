@@ -1,0 +1,21 @@
+.grid-container{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 20px;
+    
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: grid;
+ margin: auto;
+  width: 400px;
+  height: 70px; 
+  grid-template-columns: repeat(5, 1fr);
+
+}
