@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+}
+
+h1:hover {
+    color: green;
+}
+
+
+#Image {
+  width: 200px;
+    height: 200px;      
+}
+
+p:active {
+    background-color: grey;
+}
+
+a {
+    color: grey;
+    text-decoration: underline;
+}
+
+a:link {
+    color : orange;
+}
+#Image:hover {
+    display: none;
+}
