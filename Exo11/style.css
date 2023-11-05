@@ -2,18 +2,26 @@
 #Texte1 , #Texte2 , #Texte3 {
     border: solid 1px green;
     background-color: lightgray;
-   margin: 10px;
+    margin: 10px;
+  
  }  
 
 
  #Texte1 {
-    margin: 20px;
+    padding: 20px;
+    height: 100px;
  }
 
 #Texte2 {
-    margin: 1.2em ;
+    padding: 1.2em;
+    width: 50%;
 }
+    
+
 
 #Texte3 {
-    margin: -30px;
-}
+    padding: -30px ;
+    width: 200px;
+    height: 200px;
+
+    }
