@@ -1,6 +1,7 @@
 body {
     margin: none;
-    background-color: rgb(185, 41, 185);
+    background-color: blueviolet;
+    margin: 20px ;
 }
 
 
@@ -11,3 +12,23 @@ body {
 }
 
 
+
+#Texte1 { 
+
+height: 100px;
+padding:20px;
+margin:0;
+}
+
+#Texte2 {
+width:50%;
+padding:1.2em;
+margin:20px 5px;
+}
+
+#Texte3 {
+height:200px;
+width:200px;
+padding:-30px;
+margin:auto;
+ }
